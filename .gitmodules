@@ -1,0 +1,3 @@
+[submodule "slides/wns3-15-tutorial"]
+	path = slides/wns3-15-tutorial
+	url = git@github.com:thehajime/slides
